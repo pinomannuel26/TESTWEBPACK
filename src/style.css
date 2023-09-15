@@ -1,0 +1,10 @@
+h1{
+    color: lightgreen;
+}
+span{
+    cursor: pointer;
+    font-weight: bold;
+    background-color: darkgray;
+    padding: 5px;
+    margin-right: 5px;
+}
